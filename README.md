@@ -4,4 +4,4 @@ This repo showcases the effects of using `accessibilityElementsHidden` property 
 
 In this POC I showcase that `accessibilityElementsHidden` affects both element on which is set as we all as the contained elements.
 
-[![demo](https://github.com/mdjastrzebski/poc-ios-accessibility-elements-hidden/raw/refs/heads/main/Assets/demo.mp4)]
+https://raw.githubusercontent.com/mdjastrzebski/poc-ios-accessibility-elements-hidden/main/Assets/demo.mp4
